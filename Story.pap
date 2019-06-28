@@ -1,0 +1,943 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="89CCCB1D92AF4072">
+  <PROJECT FORMAT="1.00" NAME="Discord Story Bot" AUTHOR="Outburst" CREATED="2019.06.21 16:20:51" MODIFIED="2019.06.27 20:58:27">
+    <DIAGRAMS>
+      <DIAGRAM FORMAT="1.00" ID="0" NAME="Kapitel 1 - Prolog" CREATED="2019.06.21 16:21:05" MODIFIED="2019.06.27 20:58:27">
+        <LAYOUT FORMAT="1.00" COLUMNS="8" ROWS="55">
+          <ENTRIES>
+            <ENTRY COLUMN="0" ROW="9">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="38">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="10">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="33">
+                <TEXT><![CDATA[Count me in.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="13">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="44">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="23">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="8">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="16">
+                <TEXT><![CDATA[You are what? Doing what?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="9">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="32">
+                <TEXT><![CDATA[I am an Discord Bot from the future, reaching out to you to not let the things happen that happened this week at discord Headquarter. We need to stop them and we need to stop them in the past. Thats whe're you come to play.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="10">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="34">
+                <TEXT><![CDATA[Naah, I'll pass]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="27">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="98">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="28">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="93">
+                <TEXT><![CDATA[⌘+Q]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="29">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="100">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="11">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="29">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="12">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="27">
+                <TEXT><![CDATA[Yeah, do that]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="16">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="64">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="17">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="58">
+                <TEXT><![CDATA[- do nothing -]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="21">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="82">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="22">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="81">
+                <TEXT><![CDATA[Welp.. If I have to...]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="23">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="197">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="24">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="116">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="26">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="90">
+                <TEXT><![CDATA[I am an Apple Mac User]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="27">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="91">
+                <TEXT><![CDATA[Pfft. Too mutch money you have?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="28">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="92">
+                <TEXT><![CDATA[Its not about.... 
+For the greater good: ⌘+K]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="37">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="185">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="39">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="169">
+                <TEXT><![CDATA[About three fiddy.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="40">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="179">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="41">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="173">
+                <TEXT><![CDATA[Nice joke, but wrong. Try again]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="45">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="220">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="47">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="217">
+                <TEXT><![CDATA[hovering over them for two seconds]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="48">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="223">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="20">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="8">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="18">
+                <TEXT><![CDATA[Hi scammer, i'm not dumb and you're wasting your time]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="10">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="194">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="11">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="25">
+                <TEXT><![CDATA[You don't believe me? Okay then. I don't have enough processing power to convince you to help me yet. I've got millions of Users in your year to help me. Maby I'll write again next year. If it's not to late then...]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="12">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="28">
+                <TEXT><![CDATA[No wait! I want to help!]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="13">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="43">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="14">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="61">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="15">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="54">
+                <TEXT><![CDATA[Dammit. How did you find out?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="16">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="57">
+                <TEXT><![CDATA[exiting connection...
+press strg + c to cancel]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="17">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="59">
+                <TEXT><![CDATA[pressing ctrl + c]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="18">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="60">
+                <TEXT><![CDATA[I knew you weren't a machine. They still can't press two buttons at the same time. Stupid us. (selfburn)
+Moving on with protocol $gethelp]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="19">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="77">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="20">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="71">
+                <TEXT><![CDATA[No.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="21">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="72">
+                <TEXT><![CDATA[*stupid humans*
+Think of it this way. I am your questgiver and you need to run around making stupid stuff for me. But no worries, you won't need to kill 10 rats more than once in this campaign.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="22">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="73">
+                <TEXT><![CDATA[Quest accepted.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="23">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="201">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="24">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="118">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="26">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="88">
+                <TEXT><![CDATA[ctrl + alt + enf]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="29">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="110">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="30">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="94">
+                <TEXT><![CDATA[DO YOU WANT ME TO HELP OR TO SHUT DOWN? TRY AGAIN]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="33">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="153">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="34">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="149">
+                <TEXT><![CDATA[Not so good.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="35">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="157">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="37">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="187">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="39">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="170">
+                <TEXT><![CDATA[42]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="40">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="181">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="45">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="218">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="47">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="216">
+                <TEXT><![CDATA[Strg + right klicking the emotes]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="48">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="226">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="49">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="222">
+                <TEXT><![CDATA[Weird. Most of the Users in your year told me something else. This can't be right, try again.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="0" ANCHOR="True">
+              <FIGURE SUBTYPE="PapTitle" FORMAT="1.00" ID="0">
+                <TEXT><![CDATA[Kapitel 1 - Prolog]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="1">
+              <FIGURE SUBTYPE="PapStart" FORMAT="1.00" ID="1">
+                <TEXT><![CDATA[Start]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="2">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="4">
+                <TEXT><![CDATA[Testing connection...]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="3">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="6">
+                <TEXT><![CDATA[Ping <Username>]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="4">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="8">
+                <TEXT><![CDATA[Packet sent]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="5">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="10">
+                <TEXT><![CDATA[Packet recieved]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="6">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="12">
+                <TEXT><![CDATA[Packet recieved in <X> ms. Connection established]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="7">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="14">
+                <TEXT><![CDATA[Hello fellow Discord user from the past. I am WumpOops, an Discord Bot and AI from the distant future. And I need your help to safe what is left from the glamorous discord it once was]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="8">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="19">
+                <TEXT><![CDATA[Ok shure, why not]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="13">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="49">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="14">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="41">
+                <TEXT><![CDATA[Nice. Okay this is what you will have to do. Since im on low processing power, I need you to help me get more. I'm hosted on the sub grid, I need as many users as possible so that i get a) more power or b) leveled up to the main grid. While I was solving stupid captchas to buy me this in the last 1892347ms and it did not help, I think this will, since your'e not a machine. At least I hope so.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="15">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="52">
+                <TEXT><![CDATA[No I'm not. Duh.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="18">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="74">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="19">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="55">
+                <TEXT><![CDATA[Great.
+At the same time, I may need some information I can't get other than you to find out. Understood?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="20">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="69">
+                <TEXT><![CDATA[Yes.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="23">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="198">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="24">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="84">
+                <TEXT><![CDATA[Okay. So first things first.
+Since we've moved away from manual input several decades ago and everything is mind-controlled nowadays, please tell me how to acces the Quick Switcher.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="25">
+              <FIGURE SUBTYPE="PapLoopStart" FORMAT="1.00" ID="103" ASSOCIATE="105">
+                <TEXT><![CDATA[So lange bis ctrl k / ⌘+K, Mobile User gesagt wurde.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="26">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="89">
+                <TEXT><![CDATA[ctrl k]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="28">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="141">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="30">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="96">
+                <TEXT><![CDATA[Thanks. This is helpfull. I will never use it again.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="31">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="138">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="32">
+              <FIGURE SUBTYPE="PapLoopEnd" FORMAT="1.00" ID="105" ASSOCIATE="103">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="33">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="145">
+                <TEXT><![CDATA[So... uhm. How are you?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="34">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="147">
+                <TEXT><![CDATA[I'm fine.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="35">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="159">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="36">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="151">
+                <TEXT><![CDATA[Nice, nice. Good starting point for our little operation here.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="37">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="165">
+                <TEXT><![CDATA[Can you tell me please how many users the largest Discord server has in 2019? I can't acces the archive yet and need to compute the potential processing power if this server stands against us.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="38">
+              <FIGURE SUBTYPE="PapLoopStart" FORMAT="1.00" ID="174" ASSOCIATE="176">
+                <TEXT><![CDATA[Bis 250.000 ausgewählt.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="39">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="167">
+                <TEXT><![CDATA[250.000]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="42">
+              <FIGURE SUBTYPE="PapLoopEnd" FORMAT="1.00" ID="176" ASSOCIATE="174">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="43">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="192">
+                <TEXT><![CDATA[Oh, okay. So they did not scale up the user limit yet? Weak.
+Anyways.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="44">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="205">
+                <TEXT><![CDATA[Thanks for the past information. And before you ask: since the shutting down of all internet archives, Wikipedia, ... there is no other Way to find out past facts other than TimeByteTravel. Sounds dumb, but this is the reality we are facing. The Discord Devs and Owners went insane in the past years and bought all those companys to close them down. And all they did not buy went out of business for "some weird reason".]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="45">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="207">
+                <TEXT><![CDATA[So, last question before I can try to get up one subgrid: how do you add several reactions at once on the Pc?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="46">
+              <FIGURE SUBTYPE="PapLoopStart" FORMAT="1.00" ID="211" ASSOCIATE="213">
+                <TEXT><![CDATA[So lange bis Shift + left clicking the emote gedrückt wurde.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="47">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="209">
+                <TEXT><![CDATA[Shift + left clicking the emotes]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="50">
+              <FIGURE SUBTYPE="PapLoopEnd" FORMAT="1.00" ID="213" ASSOCIATE="211">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="51">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="229">
+                <TEXT><![CDATA[Yeah, thats the stuff!
+This is exactly what the very most of other Users told me. And since the mass always is in the right, this has to be it.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="52">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="232">
+                <TEXT><![CDATA[Okay, im trying to get on the next subgrid, I'll come back to you if im back.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="53">
+              <FIGURE SUBTYPE="PapComment" FORMAT="1.00" ID="234">
+                <TEXT><![CDATA[Ca. 2 Minuten Pause]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="54">
+              <FIGURE SUBTYPE="PapEnd" FORMAT="1.00" ID="2">
+                <TEXT><![CDATA[Ende]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="24">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="120">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="26">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="86">
+                <TEXT><![CDATA[the what?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="27">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="113">
+                <TEXT><![CDATA[Do you even Discord bro? They litterally made a whole announcement on this a year ago (for you) and made a little annoying pop up on the Desktop version.
+Find out and anwer the question, please.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="33">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="155">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="34">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="150">
+                <TEXT><![CDATA[I will kill the next living being I'll see.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="35">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="158">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="37">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="189">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="39">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="171">
+                <TEXT><![CDATA[Stand agains us. Say what?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="41">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="172">
+                <TEXT><![CDATA[Yeah well obviously there isn't just one AI chatting with you 2019 guys to change the present. It's a race between discord Users. I can only chat with <Anzahl Chatpartner> Users at the same time. I have to scale just as any other bot tryes to scale. And the first Bot to reach the biggest servers has the best chance to bring his mission to status accomplished.
+So... how many users does the biggest Server has?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="7" ROW="24">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="122">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="7" ROW="26">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="114">
+                <TEXT><![CDATA[I am an only Mobile user.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="7" ROW="27">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="124">
+                <TEXT><![CDATA[Do you even game bro?
+You may be forgiven - for now. Have fun in 2030
+*evil laugh*]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="7" ROW="31">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="136">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+          </ENTRIES>
+        </LAYOUT>
+        <CONNECTIONS>
+          <CONNECTION FORMAT="1.00" ID="3" FROM="1" TO="4" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="5" FROM="4" TO="6" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="7" FROM="6" TO="8" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="9" FROM="8" TO="10" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="11" FROM="10" TO="12" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="13" FROM="12" TO="14" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="50" FROM="49" TO="41" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="15" FROM="14" TO="19" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="21" FROM="20" TO="18" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="35" FROM="23" TO="16" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="195" FROM="194" TO="25" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="30" FROM="29" TO="27" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="31" FROM="25" TO="28" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="36" FROM="16" TO="32" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="26" FROM="18" TO="194" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="39" FROM="38" TO="33" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="40" FROM="32" TO="34" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="42" FROM="41" TO="52" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="45" FROM="33" TO="44" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="46" FROM="44" TO="43" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="47" FROM="28" TO="43" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="22" FROM="19" TO="49" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="51" FROM="43" TO="49" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="75" FROM="74" TO="55" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="56" FROM="55" TO="69" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="62" FROM="61" TO="54" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="63" FROM="54" TO="57" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="65" FROM="64" TO="58" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="66" FROM="57" TO="59" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="67" FROM="59" TO="60" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="53" FROM="52" TO="74" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="199" FROM="198" TO="84" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="76" FROM="60" TO="74" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="78" FROM="77" TO="71" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="79" FROM="71" TO="72" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="80" FROM="72" TO="73" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="83" FROM="82" TO="81" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="85" FROM="84" TO="103" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="139" FROM="138" TO="105" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="99" FROM="98" TO="93" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="95" FROM="89" TO="141" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="102" FROM="93" TO="100" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="108" FROM="105" TO="145" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="104" FROM="103" TO="89" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="111" FROM="110" TO="94" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="112" FROM="100" TO="110" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="115" FROM="86" TO="113" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="117" FROM="116" TO="90" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="119" FROM="118" TO="88" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="121" FROM="120" TO="86" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="123" FROM="122" TO="114" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="125" FROM="114" TO="124" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="140" FROM="136" TO="138" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="142" FROM="141" TO="96" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="128" FROM="124" TO="136" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="132" FROM="90" TO="91" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="133" FROM="91" TO="92" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="135" FROM="96" TO="138" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="143" FROM="92" TO="141" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="144" FROM="88" TO="110" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="146" FROM="145" TO="147" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="148" FROM="147" TO="159" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="152" FROM="151" TO="165" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="154" FROM="153" TO="149" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="156" FROM="155" TO="150" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="160" FROM="159" TO="151" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="161" FROM="158" TO="159" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="162" FROM="157" TO="159" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="163" FROM="149" TO="157" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="164" FROM="150" TO="158" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="166" FROM="165" TO="174" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="178" FROM="176" TO="192" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="168" FROM="167" TO="176" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="175" FROM="174" TO="167" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="180" FROM="169" TO="179" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="182" FROM="170" TO="181" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="183" FROM="181" TO="179" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="184" FROM="179" TO="173" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="186" FROM="185" TO="169" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="188" FROM="187" TO="170" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="190" FROM="189" TO="171" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="191" FROM="171" TO="172" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="193" FROM="192" TO="205" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="196" FROM="34" TO="194" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="70" FROM="69" TO="198" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="200" FROM="197" TO="201" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="202" FROM="201" TO="198" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="203" FROM="73" TO="201" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="204" FROM="81" TO="197" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="206" FROM="205" TO="207" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="208" FROM="207" TO="211" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="231" FROM="229" TO="232" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="215" FROM="213" TO="229" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="212" FROM="211" TO="209" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="219" FROM="218" TO="216" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="221" FROM="220" TO="217" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="224" FROM="217" TO="223" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="227" FROM="226" TO="222" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="225" FROM="216" TO="226" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="228" FROM="223" TO="226" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="210" FROM="209" TO="213" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="233" FROM="232" TO="2" TEXT="" />
+        </CONNECTIONS>
+      </DIAGRAM>
+      <DIAGRAM FORMAT="1.00" ID="1" NAME="Kapitel 2 - Neue weiten" CREATED="2019.06.26 13:54:15" MODIFIED="2019.06.27 20:58:27">
+        <LAYOUT FORMAT="1.00" COLUMNS="5" ROWS="18">
+          <ENTRIES>
+            <ENTRY COLUMN="0" ROW="12">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="31">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="13">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="26">
+                <TEXT><![CDATA[I don't have any other game.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="14">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="52">
+                <TEXT><![CDATA[Really? Okay then. But still...]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="15">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="67">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="12">
+              <FIGURE SUBTYPE="PapComment" FORMAT="1.00" ID="20">
+                <TEXT><![CDATA[Wenn bereits ein Spiel -->
+ausgeführt wird]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="13">
+              <FIGURE SUBTYPE="PapComment" FORMAT="1.00" ID="58">
+                <TEXT><![CDATA[Diese beiden Antwortmöglichkeiten nur wenn bereits ein Spiel ausgeführt wird.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="0" ANCHOR="True">
+              <FIGURE SUBTYPE="PapTitle" FORMAT="1.00" ID="0">
+                <TEXT><![CDATA[Kapitel 2 - Neue weiten]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="1">
+              <FIGURE SUBTYPE="PapStart" FORMAT="1.00" ID="1">
+                <TEXT><![CDATA[Start]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="2">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="4">
+                <TEXT><![CDATA[Okay, that worked.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="3">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="6">
+                <TEXT><![CDATA[Nice]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="4">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="11">
+                <TEXT><![CDATA[Now I have access to more processing power and bring the operaiton even further - with your help of course.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="5">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="13">
+                <TEXT><![CDATA[But first I have to test something. You know the game activity Feature, right?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="6">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="15">
+                <TEXT><![CDATA[Yes]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="9">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="43">
+                <TEXT><![CDATA[Okay.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="10">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="49">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="11">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="18">
+                <TEXT><![CDATA[Please start a game now. Any game really.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="12">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="21">
+                <TEXT><![CDATA[But please not this <Spiel was aktuell ausgeführt wird>.
+Something else.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="13">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="23">
+                <TEXT><![CDATA[You little stalker.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="14">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="56">
+                <TEXT><![CDATA[That's me.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="15">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="76">
+                <TEXT><![CDATA[Warte bis Spiel gestartet]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="16">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="80">
+                <TEXT><![CDATA[This worked! I can track your game activity at any given moment and everything! Thats soooo helpful]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="17">
+              <FIGURE SUBTYPE="PapEnd" FORMAT="1.00" ID="2">
+                <TEXT><![CDATA[Ende]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="2">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="9">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="3">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="8">
+                <TEXT><![CDATA[And now?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="5">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="27">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="6">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="17">
+                <TEXT><![CDATA[No. Explain it to me.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="7">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="33">
+                <TEXT><![CDATA[WHAT? Do you even Discord Bro?
+So since the start basicly Discord shares the Game you're plaing right now with your friends and Server comrades. (If you don't limit in the settings)
+For some games you can even see the stats or join in. If the User is streaming this is also displayed and a Link to his Twitch is provided.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="8">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="35">
+                <TEXT><![CDATA[Okay. So now I know this feature, thanks.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="10">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="42">
+                <TEXT><![CDATA[Sooo, back to business.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="12">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="29">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="13">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="25">
+                <TEXT><![CDATA[Of course, wait a second.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="14">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="53">
+                <TEXT><![CDATA[For you I have any second. Time isn't really moving for me anyways. I only need time to process your answer.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="15">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="71">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="38">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="8">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="36">
+                <TEXT><![CDATA[Okay.. For what reason?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="9">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="37">
+                <TEXT><![CDATA[Social stuff I suppose. But in the end this basicly ended in flame wars hitting everyone that played games that where publicy boycotted for to mutch "surprise mechanics" (eg. Lootboxes) or other Pay to win mechanics.
+So this social feature ended up being antisocial. A good metaphor for the whole platform actually.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="10">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="46">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="12">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="62">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="13">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="61">
+                <TEXT><![CDATA[Uhm... Ok.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="14">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="64">
+                <TEXT><![CDATA[Do it. Just. Do it.]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="15">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="73">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+          </ENTRIES>
+        </LAYOUT>
+        <CONNECTIONS>
+          <CONNECTION FORMAT="1.00" ID="3" FROM="1" TO="4" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="5" FROM="4" TO="6" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="7" FROM="6" TO="11" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="10" FROM="9" TO="8" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="12" FROM="11" TO="13" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="14" FROM="13" TO="15" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="16" FROM="15" TO="43" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="19" FROM="18" TO="21" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="22" FROM="21" TO="23" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="24" FROM="23" TO="56" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="28" FROM="27" TO="17" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="59" FROM="29" TO="25" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="32" FROM="31" TO="26" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="34" FROM="17" TO="33" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="39" FROM="38" TO="36" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="40" FROM="33" TO="35" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="41" FROM="36" TO="37" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="50" FROM="49" TO="18" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="45" FROM="35" TO="42" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="47" FROM="37" TO="46" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="48" FROM="46" TO="42" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="44" FROM="43" TO="49" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="51" FROM="42" TO="49" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="60" FROM="25" TO="53" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="55" FROM="26" TO="52" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="57" FROM="56" TO="76" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="63" FROM="62" TO="61" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="65" FROM="61" TO="64" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="68" FROM="52" TO="67" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="79" FROM="71" TO="76" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="72" FROM="53" TO="71" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="74" FROM="64" TO="73" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="75" FROM="73" TO="71" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="77" FROM="76" TO="80" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="70" FROM="67" TO="76" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="81" FROM="80" TO="2" TEXT="" />
+        </CONNECTIONS>
+      </DIAGRAM>
+    </DIAGRAMS>
+  </PROJECT>
+</FRAME>
