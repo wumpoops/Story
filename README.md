@@ -10,3 +10,7 @@ Here is the playable story. The story file can be edited with this [free program
 ![Chapter 1](assets/Chapter_1_Prolog.png)
 
 ![Chapter 2](assets/Chapter_2_New_ways.png)
+
+
+## Sources
+- Font: 3Dventure by [memesbruh03](https://memesbruh03.co/)
